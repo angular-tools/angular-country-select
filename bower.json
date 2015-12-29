@@ -1,0 +1,21 @@
+{
+  "name": "angular-country-select",
+    "authors": [
+    "minutephp <dev@minutephp.com>"
+  ],
+  "description": "AngularJS simplest country select drop-down",
+  "main": "src/js/angular-table.js",
+  "keywords": [
+    "angularjs",
+    "countries"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.minutephp.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
